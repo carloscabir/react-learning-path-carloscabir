@@ -1,0 +1,17 @@
+body {
+  background-color: #242424;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+.box {
+  padding: 1rem;
+  box-shadow: 0 0 1rem #ffffff25 inset;
+}
+
+.grid-responsive {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}

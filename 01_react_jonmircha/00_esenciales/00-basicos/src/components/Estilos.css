@@ -1,0 +1,14 @@
+/* 
+Existen multiples formas de añadir CSS a tu aplicacion de React.
+Como veras en App.js solo se importa y listo, pero cabe aclarar. Todo esto dependera de la estructura del proyecto
+*/
+
+.estilos h3 {
+  padding: 2rem;
+  text-align: center;
+}
+
+.bg-react {
+  background-color: #61dafd;
+  color: black;
+}

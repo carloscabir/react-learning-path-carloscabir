@@ -1,0 +1,10 @@
+$color-sass: red;
+
+.bg-sass {
+  background-color: $color-sass;
+  transition: background-color 0.5s ease-in-out;
+
+  &:hover {
+    background-color: thistle;
+  }
+}
